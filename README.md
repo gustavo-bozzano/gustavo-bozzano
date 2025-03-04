@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I´m studing Computer Science at the University of Blumenau (FURB).<br><br>And i´m also current working at Ottimizza, as a front-end software developer.</p>
+<p align="left">I´m studing Computer Science at the University of Blumenau (FURB).<br><br>And i´m also current working at @ottimizza, as a front-end software developer.</p>
 
 ###
 
